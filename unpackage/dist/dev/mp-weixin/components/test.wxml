@@ -1,0 +1,1 @@
+<view><test vue-id="1" bind:__l="__l" vue-slots="{{['default']}}">我是test组件</test><button type="primary" data-event-opts="{{[['tap',[['test',['$event']]]]]}}" bindtap="__e">event</button></view>
